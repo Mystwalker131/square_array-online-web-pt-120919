@@ -22,5 +22,5 @@ def square_array(array) #build square_array method
  array.each do |integer|#implement own logic
   new_array << integer ** 2 #shovel /push logic into array 
  end
- return new_array
+ return new_array #returns array of these squared numbers
 end
