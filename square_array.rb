@@ -15,9 +15,9 @@
 # end
 # end
 
-def square_array(array)
+def square_array(array) #build square_array method
 
- new_array = []
+ new_array = [] #new array of squared numbers
 
  array.each do |integer|
   new_array << integer ** 2
