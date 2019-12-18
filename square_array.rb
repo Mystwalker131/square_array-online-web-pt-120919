@@ -2,9 +2,9 @@
 
 # def square_array[1, 2, 3]
 # numbers.each do |num|
-# new_array = []
+#  new_array = []
 #   counter += [1]
-# puts num
+#  return new_array
 
 # end
    
